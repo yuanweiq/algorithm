@@ -4,7 +4,7 @@
 close all;
 % clear all;
 
-%choose the path to the videos (you'll be able to choose one with the GUI)
+%choose the path to the videos
 base_path = 'sequences/';
 
 %parameters according to the paper
